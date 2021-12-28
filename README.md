@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on https://github.com/ilvarol/DotnetCards
-- 🌱 I'm currently learning ASP.NET Core Web API Best Practices
+- 🌱 I'm currently learning Docker
 - 📫 How to reach me: 
 - ilyas.varol@outlook.com.tr
 - https://www.linkedin.com/in/ilyas-varol/ 
